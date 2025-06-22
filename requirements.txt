@@ -1,0 +1,11 @@
+numpy
+matplotlib
+rasterio
+scikit-learn
+statsmodels
+earthengine-api
+geemap
+libpysal
+esda
+mapclassify
+imageio

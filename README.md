@@ -46,3 +46,6 @@ jupyter notebook notebooks/analysis.ipynb
 ## License
 
 MIT License
+
+![img](../outputs/cluster_diff_2014_2023.gif)
+![img](../outputs/composite_diff_2014_2023_title.gif)
